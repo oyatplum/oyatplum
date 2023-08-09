@@ -25,7 +25,7 @@
 
 <br>
 
-<img height="600em" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img height="600em" src="./profile-3d-contrib/profile-season-animate.svg" />
 
 <br>
 
