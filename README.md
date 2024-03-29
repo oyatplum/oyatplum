@@ -1,9 +1,5 @@
 <div align=center>	
 
-  <h1><em>Lee Yeji</em></h1> 
-
-<img width="800px" src="dashboard.svg"/>
-
 <br><br>
 
 <h2>🛠 Stack</h3>
