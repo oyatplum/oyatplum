@@ -17,6 +17,9 @@
 <li> 신촌 연합 IT 창업 동아리<a href="https://github.com/CEOS-Developers"> CEOS</a> • 17기 FE <sub>(2023.03 ~ 2023.08)</sub></li>
 <li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> • 6기 BE <sub>(2024.03 ~ )</sub></li>
 
+<h2>🎨 Projects</h2>
+<li> 🌏 지속가능한 패션문화, <a href="https://github.com/Repick-official">Repick</a> 🌏 : 중고 의류 거래 플랫폼 <sub>(2023.07 ~ )</sub></li>
+
 <h2>🔗 Status</h2>
 <img src="https://komarev.com/ghpvc/?username=oyatplum&color=yellow&label=PROFILE+VIEWS"/>
 <br><br>
