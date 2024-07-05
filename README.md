@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledComponents&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindCss&logoColor=white"/>
 <br>
 <h4>📌 BE</h4>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&&logo=Java&logoColor=white"/>
