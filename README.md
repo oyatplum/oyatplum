@@ -18,7 +18,7 @@
 <li> 홍익대학교 컴퓨터공학과 <sub>(2021.03 ~ )</sub></li>
 <li> 신촌 연합 IT 창업 동아리<a href="https://github.com/CEOS-Developers"> CEOS</a> • 17기 FE <sub>(2023.03 ~ 2023.08)</sub></li>
 <li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> • 6기 BE <sub>(2024.03 ~ 2024.08)</sub></li>
-<li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> • 7기 BE 파트장 <sub>(2024.08 ~ )</sub></li>
+<li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> • 7기 BE 파트장 <sub>(2024.08 ~ 2025.01)</sub></li>
 
 <h2>⭐️ Projects</h2>
 <li> 🌏 지속가능한 패션문화, <a href="https://github.com/Repick-official">Repick</a> 🌏 : 중고 의류 거래 플랫폼 <sub>(2023.07 ~ )</sub></li>
