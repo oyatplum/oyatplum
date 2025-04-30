@@ -25,6 +25,7 @@
 <li> 🧩 여행 기록을 색칠하는 나만의 세계지도, <a href="https://github.com/UMC-TripPiece">TripPiece</a> 🧩 : 여행 기록 플랫폼 <sub>(2024.07 ~ )</sub></li>
 <li> 🏃🏻‍♀️ 국내 플로깅 코스 추천 서비스, <a href="https://github.com/Foot-Log">FootLog</a> 🏃🏻‍♀️ : 플로깅 기록 플랫폼 <sub>(2024.08 ~ )</sub></li>
 <li> 👖 청년 정책 바로 지원, <a href="https://github.com/ChungBazi">청바지</a> 👖 : 청년 정책 맞춤 추천 플랫폼 <sub>(2025.01 ~ )</sub></li>
+<li> 🍷 와인을 이지하게, <a href="https://github.com/Drink-Easy">드링키지</a> 🍷 : 와인을 이지하게 즐기는 주류 큐레이션 및 테이스팅 노트 서비스 <sub>(2025.03 ~ )</sub></li>
 
 <h2>🔗 Status</h2>
 <img src="https://komarev.com/ghpvc/?username=oyatplum&color=yellow&label=PROFILE+VIEWS"/>
