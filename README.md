@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/>
 
 <h2>💻 Experience</h2>
-<li> 홍익대학교 컴퓨터공학과 <sub>(2021.03 ~ )</sub></li>
+<li> 홍익대학교 컴퓨터공학과 <sub>(2021.03 ~ 2026.02)</sub></li>
 <li> 신촌 연합 IT 창업 동아리<a href="https://github.com/CEOS-Developers"> CEOS</a> • 17기 FE <sub>(2023.03 ~ 2023.08)</sub></li>
 <li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> • 6기 BE <sub>(2024.03 ~ 2024.08)</sub></li>
 <li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> • 7기 BE 파트장 <sub>(2024.08 ~ 2025.01)</sub></li>
