@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/>
 
-<h2>💻 Experience</h2>
+<!-- <h2>💻 Experience</h2>
 <li> 홍익대학교 컴퓨터공학과 <sub>(2021.03 ~ 2026.02)</sub></li>
 <li> 신촌 연합 IT 창업 동아리<a href="https://github.com/CEOS-Developers"> CEOS</a> • 17기 FE <sub>(2023.03 ~ 2023.08)</sub></li>
 <li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> • 6기 BE <sub>(2024.03 ~ 2024.08)</sub></li>
@@ -25,7 +25,7 @@
 <li> 🧩 여행 기록을 색칠하는 나만의 세계지도, <a href="https://github.com/UMC-TripPiece">TripPiece</a> 🧩 : 여행 기록 플랫폼 <sub>(2024.07 ~ 2024.12)</sub></li>
 <li> 🏃🏻‍♀️ 국내 플로깅 코스 추천 서비스, <a href="https://github.com/Foot-Log">FootLog</a> 🏃🏻‍♀️ : 플로깅 기록 플랫폼 <sub>(2024.08 ~ 2024.11)</sub></li>
 <li> 👖 청년 정책 바로 지원, <a href="https://github.com/ChungBazi">청바지</a> 👖 : 청년 정책 맞춤 추천 플랫폼 <sub>(2025.01 ~ )</sub></li>
-<li> 🍷 와인을 이지하게, <a href="https://github.com/Drink-Easy">드링키지</a> 🍷 : 와인을 이지하게 즐기는 주류 큐레이션 및 테이스팅 노트 서비스 <sub>(2025.03 ~ )</sub></li>
+<li> 🍷 와인을 이지하게, <a href="https://github.com/Drink-Easy">드링키지</a> 🍷 : 와인을 이지하게 즐기는 주류 큐레이션 및 테이스팅 노트 서비스 <sub>(2025.03 ~ )</sub></li> -->
 
 <h2>🔗 Status</h2>
 <img src="https://komarev.com/ghpvc/?username=oyatplum&color=yellow&label=PROFILE+VIEWS"/>
